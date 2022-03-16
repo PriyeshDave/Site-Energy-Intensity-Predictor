@@ -49,6 +49,7 @@ usage records collected over 7 years and a number of states within the United St
 ## Web Application:
 Built a web application using **Streamlit** and deployed on **Heroku**.
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/81012989/158674282-b53c7be6-01b5-44c6-9b9c-1c9bce25e927.png">
+https://site-energy-intensity-predict.herokuapp.com/
 
 
 
