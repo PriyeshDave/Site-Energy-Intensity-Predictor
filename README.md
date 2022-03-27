@@ -27,7 +27,7 @@ could asses EUI by a minimum amount of data.
 This data set is collected from **The WiDS Datathon 2022** which focuses on a prediction task involving roughly **100k observations** of building energy 
 usage records collected over 7 years and a number of states within the United States.
 
-### :bar_chart: Exploratory Data Anaylysis:
+### :bar_chart: Exploratory Data Analysis:
 * Exploratory Data Analysis is the first step of understanding your data and acquiring domain knowledge. 
 * On using **Shapiro-Wilk** test it was found that majority of features were not following normal distribution.
 * There was no outliers found using **Z-Score** estimation and **IQR**.
