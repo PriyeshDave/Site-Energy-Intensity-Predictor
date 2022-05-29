@@ -1,4 +1,10 @@
 # Site Energy Intensity Prediction Application 🏢⚡
+![Python](https://img.shields.io/badge/Language-python3.9-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
+![Frontend](https://img.shields.io/badge/Framework-Streamlit-red)
+![Deployment](https://img.shields.io/badge/Cloud-Heroku-purple)
+
+
 ## Introduction
 According to a report issued by the International Energy Agency (IEA), the lifecycle of buildings from construction to demolition were responsible for 37% of global energy-related and process-related CO2 emissions in 2020. 
 Yet it is possible to drastically reduce the energy consumption of buildings by a combination of easy-to-implement fixes and state-of-the-art strategies. 
