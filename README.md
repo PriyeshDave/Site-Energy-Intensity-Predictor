@@ -1,6 +1,6 @@
 # Site Energy Intensity Prediction Application 🏢⚡
 ![Python](https://img.shields.io/badge/Language-python3.9-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XgBoost-orange)
 ![Frontend](https://img.shields.io/badge/Framework-Streamlit-red)
 ![Deployment](https://img.shields.io/badge/Cloud-Heroku-purple)
 
